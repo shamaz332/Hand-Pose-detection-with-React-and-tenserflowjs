@@ -1,8 +1,6 @@
 import "./App.css";
 
 import * as handpose from "@tensorflow-models/handpose";
-import * as tf from "@tensorflow/tfjs";
-
 import React, { useRef } from "react";
 
 import Webcam from "react-webcam";
